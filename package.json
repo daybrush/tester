@@ -1,6 +1,6 @@
 {
   "name": "@daybrush/tester",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "new project",
   "main": "./karma.config.js",
   "scripts": {
@@ -34,7 +34,8 @@
     "karma-typescript": "^4.1.1",
     "mocha": "^6.2.0",
     "print-coveralls": "^1.2.2",
-    "sinon": "^7.4.1"
+    "sinon": "^7.4.1",
+    "source-map-support": "^0.5.13"
   },
   "devDependencies": {
     "typescript": "^3.5.3"
